@@ -2,3 +2,5 @@
 .build
 .DS_Store
 *.exe
+cmds/houndd/houndd
+cmds/houndd/config.json
